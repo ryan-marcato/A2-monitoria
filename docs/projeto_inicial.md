@@ -224,7 +224,7 @@ As regras RN07 e RN08 já estavam referenciadas no modelo; as demais foram deriv
 
 Sprint única: **19/10 a 22/10**. Um módulo por integrante, conforme o plano de execução.
 
-| Prioridade | Item | Módulo | Responsável (sugestão) | Prazo |
+| Prioridade | Item | Módulo | Responsável | Prazo |
 |:---:|------|--------|------------------------|-------|
 | 1 | Base: `config`, `models`, `database`, `erros` | núcleo | Ryan | 19/10 |
 | 2 | Listar horários e reservar com dúvida | agendamento | Lucas | 20/10 |
