@@ -1,5 +1,8 @@
-"""Exceções do domínio."""
+"""Erros do sistema."""
 
 
 class RegraDeNegocioError(Exception):
-    """Levantada quando uma operação viola uma regra de negócio."""
+    """Lancado quando uma regra de negocio é violada.
+
+    A interface (cli.py) captura esse erro e mostra a mensagem ao usuario.
+    """
